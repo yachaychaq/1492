@@ -21,3 +21,12 @@ To edit this list on GitHub, simply [click here](https://github.com/rjzevallos/1
   - [Aymara](#aymara)
   - [Quechua Central](#quechua-central)
   - [Quechua Sureño](#quechua-sureño)
+
+
+# Language Specific Projects
+
+## Aymara
+
+## Quechua Central
+
+## Quechua Sureño
