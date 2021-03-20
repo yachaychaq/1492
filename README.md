@@ -9,3 +9,7 @@ In Peru, 48 native languages are still alive but threatened. All these languages
 **Slack Group**
 
 We have a Slack group for live discussion. [Join Us Here](https://join.slack.com/t/siminchik/shared_invite/zt-nxju2mw6-y3oIzAXf9B1_nKzuJQYMGg)!
+
+## Contribute
+
+To edit this list on GitHub, simply [click here](https://github.com/rjzevallos/1942/edit/master/README.md). If you would like to discuss anything at all related to this, please [open an issue](https://github.com/rjzevallos/1942/issues). If you know of any resource available that is not on this list, please add it, either using the link above or by submitting pull requests.
