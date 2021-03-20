@@ -1,4 +1,4 @@
-# 1492: Endangered Languages
+# 1492: Revitalizing Languages
 
 Languages are disappearing at an alarming rate; the linguistic rights of the speakers of most of the 6,500 languages are in danger of extinction. The Information and Communication Technologies (ICT) play a key role in preserving endangered languages; As the ultimate use of  ICT, it is worth highlighting natural language processing, since this century, the lack of such support hinders literacy and prevents the use of the Internet and any electronic medium. The first step is constructing resources such as speech corpus, monolingual corpus, bilingual corpus, dictionaries. These resources allow the construction of linguistic tools for natural language processing. Some tools such as automatic speech recognition (ASR), translators (NMT), Text-to-Speech (TTS), and others help break the language barrier and revitalize minority languages. However, it is important to know why these languages are in danger of extinction.
 
