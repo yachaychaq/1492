@@ -18,5 +18,6 @@ To edit this list on GitHub, simply [click here](https://github.com/rjzevallos/1
 # Table of Contents
 
 - [Language Specific Projects](#language-specific-projects)
+  - [Aymara](#aymara)
+  - [Quechua Central](#quechua-central)
   - [Quechua Sureño](#quechua-sureño)
-        - [Corpus and digital resources](#corpus-and-digital-resources)
