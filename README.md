@@ -34,3 +34,7 @@ To edit this list on GitHub, simply [click here](https://github.com/rjzevallos/1
 - [[Corpus]](https://www.siminchikkunarayku.pe) **Siminchik: A Speech Corpus for Preservation of Southern Quechua**  <br>
 Contains 99 hours of transcribed audio of the dialectic varieties of Chanca and Collao.
 [(Cárdenas et al., 2018)](http://lrec-conf.org/workshops/lrec2018/W14/pdf/4_W14.pdf)
+
+- [[ASR]](https://www.siminchikkunarayku.pe) **Automatic Speech Recognition of Quechua Language Using HMM Toolkit**  <br>
+ASR built with Hidden Markov Model Toolkit achieving a WER-Test 12.70.
+[(Zevallos et al., 2019)](https://link.springer.com/chapter/10.1007/978-3-030-46140-9_6)
