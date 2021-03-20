@@ -19,4 +19,4 @@ To edit this list on GitHub, simply [click here](https://github.com/rjzevallos/1
 
 - [Language Specific Projects](#language-specific-projects)
   - [Quechua Sureño](#quechua-sureño)
-    - [Corpus and digital resources](#corpus-and-digital-resources)
+   - [Corpus and digital resources](#corpus-and-digital-resources)
