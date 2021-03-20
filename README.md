@@ -30,3 +30,7 @@ To edit this list on GitHub, simply [click here](https://github.com/rjzevallos/1
 ## Quechua Central
 
 ## Quechua Sureño
+
+- [[Corpus]](https://lindat.mff.cuni.cz/repository/xmlui/handle/11372/LRT-1597) **Siminchik: A Speech Corpus for Preservation of Southern Quechua**  <br>
+Contains 99 hours of transcribed audio of the dialectic varieties of Chanca and Collao.
+[(Cárdenas et al., 2018)](http://lrec-conf.org/workshops/lrec2018/W14/pdf/4_W14.pdf)
