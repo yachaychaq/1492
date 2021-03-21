@@ -31,6 +31,10 @@ To edit this list on GitHub, simply [click here](https://github.com/rjzevallos/1
 
 ## Quechua Sureño
 
+- [[Corpus]](https://www.siminchikkunarayku.pe) **A Quechua-Spanish parallel treebank**  <br>
+An Quechua-Spanish parallel treebank.
+[(Rios et al., 2008)](https://dspace.library.uu.nl/handle/1874/296798)
+
 - [[Corpus]](https://www.siminchikkunarayku.pe) **Siminchik: A Speech Corpus for Preservation of Southern Quechua**  <br>
 Contains 99 hours of transcribed audio of the dialectic varieties of Chanca and Collao.
 [(Cárdenas et al., 2018)](http://lrec-conf.org/workshops/lrec2018/W14/pdf/4_W14.pdf)
