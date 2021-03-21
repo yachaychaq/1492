@@ -63,7 +63,9 @@ An ASR system of isolated Quechua numbers is developed using Mel-Frequency Cepst
 An ASR built with Hidden Markov Model Toolkit achieving a WER-Test 12.70.
 [(Zevallos et al., 2019)](https://link.springer.com/chapter/10.1007/978-3-030-46140-9_6)
 
-
+- [[Spell Checking]](https://www.siminchikkunarayku.pe) **Spell checking an agglutinative language: Quechua**  <br>
+A spell checker using finite state methods for the agglutinative language Quechua.
+[(Rios, 2011)](https://www.zora.uzh.ch/id/eprint/52921/)
 
 # License
 
