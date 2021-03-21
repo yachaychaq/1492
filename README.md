@@ -35,6 +35,10 @@ To edit this list on GitHub, simply [click here](https://github.com/rjzevallos/1
 An Quechua-Spanish parallel treebank.
 [(Rios et al., 2008)](https://dspace.library.uu.nl/handle/1874/296798)
 
+- [[Corpus]](https://www.siminchikkunarayku.pe) **On the Building of the Large Scale Corpus of Southern Qichwa**  <br>
+A non annotated corpus of Southern Qichwa (156 hours).
+[(Camacho et al., 2017)](https://www.researchgate.net/profile/Luis-Camacho-9/publication/329718267_On_the_Building_of_the_Large_Scale_Corpus_of_Southern_Qichwa/links/5c180bb8299bf139c7605dce/On-the-Building-of-the-Large-Scale-Corpus-of-Southern-Qichwa.pdf)
+
 - [[Corpus]](https://www.siminchikkunarayku.pe) **Siminchik: A Speech Corpus for Preservation of Southern Quechua**  <br>
 Contains 99 hours of transcribed audio of the dialectic varieties of Chanca and Collao.
 [(Cárdenas et al., 2018)](http://lrec-conf.org/workshops/lrec2018/W14/pdf/4_W14.pdf)
