@@ -35,11 +35,15 @@ To edit this list on GitHub, simply [click here](https://github.com/rjzevallos/1
 Contains 99 hours of transcribed audio of the dialectic varieties of Chanca and Collao.
 [(Cárdenas et al., 2018)](http://lrec-conf.org/workshops/lrec2018/W14/pdf/4_W14.pdf)
 
-- [[ASR]](https://www.siminchikkunarayku.pe) **Isolated Automatic Speech Recognition of Quechua Numbers using MFCC, DTW and KNN**  <br>
+- [[Machine Translation]](https://www.siminchikkunarayku.pe) **Neural machine translation with a polysynthetic low resource language**  <br>
+An NMT for Southern Quechua developed with several morphological segmentation techniques and a new one in order to decompose the language’s suffix-based morphemes.
+[(Ortega et al., 2020)](https://link.springer.com/article/10.1007/s10590-020-09255-9)
+
+- [[Speech Recognition]](https://www.siminchikkunarayku.pe) **Isolated Automatic Speech Recognition of Quechua Numbers using MFCC, DTW and KNN**  <br>
 An ASR system of isolated Quechua numbers is developed using Mel-Frequency Cepstral Coefficients (MFCC), Dynamic Time Warping (DTW) and K-Nearest Neighbor (KNN).
 [(Chacca et al., 2018)](https://pdfs.semanticscholar.org/7e40/f72a32259e35771b4125e4b5d560fb2973af.pdf)
 
-- [[ASR]](https://www.siminchikkunarayku.pe) **Automatic Speech Recognition of Quechua Language Using HMM Toolkit**  <br>
+- [[Speech Recognition]](https://www.siminchikkunarayku.pe) **Automatic Speech Recognition of Quechua Language Using HMM Toolkit**  <br>
 An ASR built with Hidden Markov Model Toolkit achieving a WER-Test 12.70.
 [(Zevallos et al., 2019)](https://link.springer.com/chapter/10.1007/978-3-030-46140-9_6)
 
