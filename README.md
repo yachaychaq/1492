@@ -35,6 +35,14 @@ To edit this list on GitHub, simply [click here](https://github.com/rjzevallos/1
 Contains 99 hours of transcribed audio of the dialectic varieties of Chanca and Collao.
 [(Cárdenas et al., 2018)](http://lrec-conf.org/workshops/lrec2018/W14/pdf/4_W14.pdf)
 
+- [[Machine Translation]](https://www.siminchikkunarayku.pe) **Building NLP Systems for Two Resource-Scarce Indigenous Languages: Mapudungun and Quechua**  <br>
+Quechua-Spanish machine translation systems developed with rule-based techniques.
+[(Monson1 et al., 2006)](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/cmt-40/OldFiles/OldFiles/Nice/Papers/esslli-06/ResourceScarceLanguageEngineeringWorkshop9.pdf)
+
+- [[Machine Translation]](https://www.siminchikkunarayku.pe) **A basic language technology toolkit for quechua**  <br>
+A hybrid machine translation system that can translate Spanish text into Cuzco Quechua.
+[(Rios, 2015)](https://www.zora.uzh.ch/id/eprint/119943/)
+
 - [[Machine Translation]](https://www.siminchikkunarayku.pe) **Neural machine translation with a polysynthetic low resource language**  <br>
 An NMT for Southern Quechua developed with several morphological segmentation techniques and a new one in order to decompose the language’s suffix-based morphemes.
 [(Ortega et al., 2020)](https://link.springer.com/article/10.1007/s10590-020-09255-9)
