@@ -27,6 +27,10 @@ To edit this list on GitHub, simply [click here](https://github.com/rjzevallos/1
 
 ## Aymara
 
+- [[Parsin]](https://www.siminchikkunarayku.pe) **Parsing a Polysynthetic Language**  <br>
+A lexical-functional grammar of Aymara.
+[(Homola, 2011)](https://www.aclweb.org/anthology/R11-1079.pdf)
+
 ## Quechua Central
 
 ## Quechua Sureño
