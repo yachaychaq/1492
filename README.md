@@ -67,6 +67,10 @@ A hybrid machine translation system that can translate Spanish text into Cuzco Q
 An NMT for Southern Quechua developed with several morphological segmentation techniques and a new one in order to decompose the language’s suffix-based morphemes.
 [(Ortega et al., 2020)](https://link.springer.com/article/10.1007/s10590-020-09255-9)
 
+- [[Machine Translation]](https://www.siminchikkunarayku.pe) **Traducción automática neuronal para lengua nativa peruana**  <br>
+An NMT for Chanca Quechua developed with transformers and deep learning methods achieving a BLEU of 39.5.
+[(Huarcaya , 2020)](https://repositorio.upeu.edu.pe/handle/UPEU/4143)
+
 - [[Speech Recognition]](https://www.siminchikkunarayku.pe) **Isolated Automatic Speech Recognition of Quechua Numbers using MFCC, DTW and KNN**  <br>
 An ASR system of isolated Quechua numbers is developed using Mel-Frequency Cepstral Coefficients (MFCC), Dynamic Time Warping (DTW) and K-Nearest Neighbor (KNN).
 [(Chacca et al., 2018)](https://pdfs.semanticscholar.org/7e40/f72a32259e35771b4125e4b5d560fb2973af.pdf)
