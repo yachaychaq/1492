@@ -12,8 +12,15 @@ We have a Slack group for live discussion. [Join Us Here](https://join.slack.com
 
 ## Contribute
 
-To edit this list on GitHub, simply [click here](https://github.com/rjzevallos/1492/edit/main/README.md). If you would like to discuss anything at all related to this, please [open an issue](https://github.com/rjzevallos/1492/issues). If you know of any resource available that is not on this list, please add it, either using the link above or by submitting pull requests.
 
+| Type                            | Platforms                               |
+| ------------------------------- | --------------------------------------- |
+| ðŸ—¯ **General Discussion**     | [Slack Group]((https://join.slack.com/t/siminchik/shared_invite/zt-nxju2mw6-y3oIzAXf9B1_nKzuJQYMGg))                  |
+| âœ¨ **How to contribute**       | [Fork](https://github.com/rjzevallos/1492/edit/main/README.md)                              |
+| ðŸŽ **Feature Requests & Ideas** | [GitHub Issue Tracker](https://github.com/rjzevallos/1492/issues)                 |
+
+
+If you know of any resource available that is not on this list, please add it, either using the link above or by submitting pull requests.
 
 # Table of Contents
 
