@@ -16,7 +16,7 @@ We have a Slack group for live discussion. [Join Us Here](https://join.slack.com
 | Type                            | Platforms                               |
 | ------------------------------- | --------------------------------------- |
 | :speech_balloon: **General Discussion**     | [Slack Group](https://join.slack.com/t/siminchik/shared_invite/zt-nxju2mw6-y3oIzAXf9B1_nKzuJQYMGg)                  |
-| :sparkles: **How to contribute**       | [Fork](https://github.com/rjzevallos/1492/edit/main/README.md)                              |
+| :sparkles: **How to contribute**       | [Github Fork](https://github.com/rjzevallos/1492/edit/main/README.md)                              |
 | :raising_hand: **Feature Requests & Ideas** | [GitHub Issue Tracker](https://github.com/rjzevallos/1492/issues)                 |
 
 
