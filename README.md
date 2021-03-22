@@ -79,6 +79,10 @@ An ASR built with Hidden Markov Model Toolkit achieving a WER-Test 12.70.
 A spell checker using finite state methods for the agglutinative language Quechua.
 [(Rios, 2011)](https://www.zora.uzh.ch/id/eprint/52921/)
 
+- [[Syntactic Analyzer]](https://www.siminchikkunarayku.pe) **Syntactic Analyzer for Quechua Language**  <br>
+ A  syntactic  analyzer  for  Quechua  which  makes  use  of  a  dynamic  programming  technique  with  a  context  freegrammar.
+[(Lozano et al., 2013)](https://www.researchgate.net/publication/259265383_Syntactic_Analyzer_for_Quechua_Language)
+
 # License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">licencia de Creative Commons Reconocimiento-NoComercial 4.0 Internacional</a>.
