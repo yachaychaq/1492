@@ -20,7 +20,8 @@ In Peru, 48 native languages are still alive but threatened. All these languages
 If you know of any resource available that is not on this list, please add it, either using the link above or by submitting pull requests.
 
 # Table of Contents
-
+- [Organizations](#organizations)
+- [Computing Systems](#computing-systems) 
 - [Language Specific Projects](#language-specific-projects)
   - [Aymara](#aymara)
   - [Quechua Central](#quechua-central)
