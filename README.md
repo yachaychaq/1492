@@ -47,6 +47,10 @@ An Quechua-Spanish parallel treebank.
 A non annotated corpus of Southern Qichwa (156 hours).
 [(Camacho et al., 2017)](https://www.researchgate.net/profile/Luis-Camacho-9/publication/329718267_On_the_Building_of_the_Large_Scale_Corpus_of_Southern_Qichwa/links/5c180bb8299bf139c7605dce/On-the-Building-of-the-Large-Scale-Corpus-of-Southern-Qichwa.pdf)
 
+- [[Corpus]](https://www.siminchikkunarayku.pe) **Dictionnaire électronique français-quechua des verbes pour le TAL**  <br>
+A dictionary of French-Quechua verb.
+[(Duran., 2017)](https://tel.archives-ouvertes.fr/tel-01787662/)
+
 - [[Corpus]](https://www.siminchikkunarayku.pe) **Siminchik: A Speech Corpus for Preservation of Southern Quechua**  <br>
 Contains 99 hours of transcribed audio of the dialectic varieties of Chanca and Collao.
 [(Cárdenas et al., 2018)](http://lrec-conf.org/workshops/lrec2018/W14/pdf/4_W14.pdf)
