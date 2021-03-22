@@ -69,7 +69,7 @@ An ASR system of isolated Quechua numbers is developed using Mel-Frequency Cepst
 
 - [[Speech Recognition]](https://www.siminchikkunarayku.pe) **Conversor de voz a texto para el idioma quechua usando la herramienta de reconocimiento de voz KALDI y una red neuronal profunda**  <br>
 An ASR built with DNN-HMM achieving a Acc 59.20%.
-[(Zevallos et al., 2019)](http://repositorio.unsaac.edu.pe/handle/UNSAAC/4321)
+[(Aimituma et al., 2019)](http://repositorio.unsaac.edu.pe/handle/UNSAAC/4321)
 
 - [[Speech Recognition]](https://www.siminchikkunarayku.pe) **Automatic Speech Recognition of Quechua Language Using HMM Toolkit**  <br>
 An ASR built with Hidden Markov Model Toolkit achieving a WER-Test 12.70.
