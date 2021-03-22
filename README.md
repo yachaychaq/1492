@@ -31,6 +31,10 @@ To edit this list on GitHub, simply [click here](https://github.com/rjzevallos/1
 A lexical-functional grammar of Aymara.
 [(Homola, 2011)](https://www.aclweb.org/anthology/R11-1079.pdf)
 
+- [[Machine Translation]](https://www.siminchikkunarayku.pe) **Rule-based machine translation for Aymara**  <br>
+A machine translation for Aymara developed with rule-based techniques.
+[(Coler et al., 2014)](https://www.cambridge.org/core/books/endangered-languages-and-new-technologies/1CA62D65D0E1CCDF8F364909C8B83048)
+
 ## Quechua Central
 
 ## Quechua Sureño
