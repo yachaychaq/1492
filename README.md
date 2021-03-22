@@ -6,9 +6,6 @@ In Peru, 48 native languages are still alive but threatened. All these languages
 
 1492 is an open-source repository that aims to concentrate academics, independent scholars, organizations, communities, and individuals to revitalize and democratize the native languages in Peru. State of the art on sentiment analysis models
 
-**Slack Group**
-
-We have a Slack group for live discussion. [Join Us Here](https://join.slack.com/t/siminchik/shared_invite/zt-nxju2mw6-y3oIzAXf9B1_nKzuJQYMGg)!
 
 ## Contribute
 
