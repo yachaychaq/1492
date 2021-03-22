@@ -83,6 +83,10 @@ A spell checker using finite state methods for the agglutinative language Quechu
  A  syntactic  analyzer  for  Quechua  which  makes  use  of  a  dynamic  programming  technique  with  a  context  freegrammar.
 [(Lozano et al., 2013)](https://www.researchgate.net/publication/259265383_Syntactic_Analyzer_for_Quechua_Language)
 
+- [[Morphological Analyzer]](https://www.siminchikkunarayku.pe) **Morphological Disambiguation and Text Normalization for Southern Quechua Varieties**  <br>
+ A pipeline to normalize Quechua texts through morphological analysis and disambiguation.
+[(Rios et al., 2014)](https://www.zora.uzh.ch/id/eprint/97707/)
+
 # License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">licencia de Creative Commons Reconocimiento-NoComercial 4.0 Internacional</a>.
