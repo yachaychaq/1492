@@ -31,6 +31,9 @@ If you know of any resource available that is not on this list, please add it, e
 
 # Organizations
 
+- [[Org]](https://github.com/hinantin) **Hinantin**  <br>
+Research and NLP Software Development.
+
 # Computing Systems
 
 # Language Specific Projects
