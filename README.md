@@ -108,6 +108,20 @@ A spell checker using finite state methods for the agglutinative language Quechu
  A pipeline to normalize Quechua texts through morphological analysis and disambiguation.
 [(Rios et al., 2014)](https://www.zora.uzh.ch/id/eprint/97707/)
 
+
+- [[]](https://www.aclweb.org/anthology/W18-2201/) **Using Morphemes from Agglutinative Languages like Quechua and Finnish to Aid in Low-Resource Translation**
+
+[(Ortega and Pillaipakkamnatt, 2018)](https://www.aclweb.org/anthology/W18-2201/)
+
+- [[]](https://www.zora.uzh.ch/id/eprint/101905/1/paper_comtel2014.pdf)  **Allin Qillqay! A Free Online Web Spell Checking Service for Quechua**
+
+[(castro and Rios, 2014)](https://www.zora.uzh.ch/id/eprint/101905/1/paper_comtel2014.pdf) 
+
+- [[]](https://www.zora.uzh.ch/id/eprint/97707/) **Morphological Disambiguation and Text Normalization for Southern Quechua Varieties**
+
+[(Rios and Castro, 2014)](https://www.zora.uzh.ch/id/eprint/97707/)
+
+
 # License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">licencia de Creative Commons Reconocimiento-NoComercial 4.0 Internacional</a>.
